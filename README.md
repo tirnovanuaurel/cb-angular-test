@@ -14,6 +14,8 @@ a. settings
 b. menu
 c. pools/:id
 
+More details about how to use the fake API server, here: https://github.com/typicode/json-server
+
 ### 3. Coding Test
 
 You have *4 hours* to complete the test. 
