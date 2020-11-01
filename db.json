@@ -1,0 +1,2431 @@
+{
+  "settings":
+    { "default_currency": "GBP", "open_syndicate_count": 32 }
+  ,
+  "menu": {
+    "pools": [
+        {
+            "available_syndicates": 0,
+            "best_dividend_guarantee": false,
+            "boosted": false,
+            "currency": "GBP",
+            "external_id": null,
+            "external_source": null,
+            "free_play_only": false,
+            "fx_rates": [
+                {
+                    "currency": "GBP",
+                    "rate": "2.0"
+                }
+            ],
+            "has_offers": false,
+            "has_sport_event_in_progress": false,
+            "headline_prize": "2175.0",
+            "id": 37858,
+            "leg_num": 5,
+            "name": "1X2 Pick 5",
+            "name_code": null,
+            "overlay_image_url": null,
+            "rollover": false,
+            "rule_code": null,
+            "sched_next": "2020-09-15T00:00:00.000Z",
+            "sched_start": "2020-09-15T00:00:00.000Z",
+            "show_sub_code": false,
+            "sport_code": "FOOTBALL",
+            "sport_event_info": null,
+            "sport_sub_code": "MIXED",
+            "stake_sizes": [
+                {
+                    "country": "00",
+                    "currency": "GBP",
+                    "max_cost": "100000000.0",
+                    "max_stake": "2.1",
+                    "min_cost": "0.01",
+                    "min_stake": "0.01",
+                    "stakes": ["2.0", "1.0", "0.5", "0.2", "0.1"]
+                }
+            ],
+            "status": "OPEN",
+            "trading_enabled": true,
+            "type_code": "HDA"
+        },
+        {
+            "available_syndicates": 0,
+            "best_dividend_guarantee": false,
+            "boosted": false,
+            "currency": "GBP",
+            "external_id": null,
+            "external_source": null,
+            "free_play_only": false,
+            "fx_rates": [
+                {
+                    "currency": "GBP",
+                    "rate": "2.0"
+                }
+            ],
+            "has_offers": false,
+            "has_sport_event_in_progress": false,
+            "headline_prize": "2175.0",
+            "id": 36119,
+            "leg_num": 3,
+            "name": "CS Pick 3",
+            "name_code": null,
+            "overlay_image_url": null,
+            "rollover": false,
+            "rule_code": null,
+            "sched_next": null,
+            "sched_start": "2020-02-07T11:00:00.000Z",
+            "show_sub_code": false,
+            "sport_code": "FOOTBALL",
+            "sport_event_info": null,
+            "sport_sub_code": "MIXED",
+            "stake_sizes": [
+                {
+                    "country": "00",
+                    "currency": "GBP",
+                    "max_cost": "100000000.0",
+                    "max_stake": "2.1",
+                    "min_cost": "0.01",
+                    "min_stake": "0.01",
+                    "stakes": ["2.0", "1.0", "0.5", "0.2", "0.1"]
+                }
+            ],
+            "status": "OFFICIAL",
+            "trading_enabled": true,
+            "type_code": "CORRECT_SCORE"
+        }
+    ],
+    "official_pools": [36119]
+  },
+  "pools": [
+    {
+    "fx_rates": [
+        {
+        "currency": "GBP",
+        "rate": "2.0"
+        }
+    ],
+    "id": 37858,
+    "name": "1X2 Pick 5",
+    "type_code": "HDA",
+    "name_code": null,
+    "rule_code": null,
+    "status": "OPEN",
+    "settlement_status": "NOT_READY",
+    "sched_start": "2020-09-15T00:00:00.000Z",
+    "sched_next": "2020-09-15T00:00:00.000Z",
+    "num_units": "2.5",
+    "headline_prize": "2175.0",
+    "in_rollback_mode": false,
+    "stake_sizes": [
+        {
+        "currency": "GBP",
+        "country": "00",
+        "stakes": [
+            "2.0",
+            "1.0",
+            "0.5",
+            "0.2",
+            "0.1"
+        ],
+        "min_stake": "0.01",
+        "max_stake": "2.1",
+        "min_cost": "0.01",
+        "max_cost": "100000000.0"
+        }
+    ],
+    "sport_code": "FOOTBALL",
+    "leg_num": 5,
+    "sport_sub_code": "MIXED",
+    "show_sub_code": false,
+    "smart_pick_perms": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        24,
+        48,
+        72,
+        108,
+        162,
+        243
+    ],
+    "free_play_only": false,
+    "boosted": false,
+    "rollover": false,
+    "best_dividend_guarantee": false,
+    "created_at": "2020-09-11T09:17:39.000Z",
+    "settled_at": null,
+    "external_id": null,
+    "external_source": null,
+    "trading_enabled": true,
+    "overlay_image_url": null,
+    "leg_correlations": {},
+    "sport_event_info": null,
+    "available_syndicates": 0,
+    "has_offers": false,
+    "currency": "GBP",
+    "prizes": [
+        {
+        "prize_type_code": "CON_N1",
+        "amount": "435.0",
+        "guarantee": "500.0",
+        "carry_in": "0.0",
+        "pay_out": "0.0",
+        "win_units": "0.0",
+        "prize_path": 0,
+        "path_selections": null,
+        "complete_path_selections": null,
+        "id": 97597
+        },
+        {
+        "prize_type_code": "WIN",
+        "amount": "2175.0",
+        "guarantee": "2500.0",
+        "carry_in": "0.0",
+        "pay_out": "0.0",
+        "win_units": "0.0",
+        "prize_path": 0,
+        "path_selections": null,
+        "complete_path_selections": null,
+        "id": 97598
+        }
+    ],
+    "legs": [
+        {
+        "id": 144098,
+        "type_code": "HDA",
+        "official": false,
+        "display_order": 1,
+        "leg_order": 1,
+        "sport_code": "FOOTBALL",
+        "result": {},
+        "winning_selections": [],
+        "sport_event": {
+            "id": 177166,
+            "name": "Motherwell v Manchester United",
+            "status": "NOT_STARTED",
+            "sport_code": "FOOTBALL",
+            "sport_sub_code": "INTERNATIONAL",
+            "sport_sub_code_desc": null,
+            "period": null,
+            "add_info_json": {
+            "home_id": 116609,
+            "home_name": "Motherwell",
+            "away_id": 116586,
+            "away_name": "Manchester United",
+            "result_code": "Draw"
+            },
+            "sched_start": "2020-09-15T00:00:00.000Z",
+            "competitors": [
+            {
+                "id": 116586,
+                "name": "Manchester United",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "INTERNATIONAL",
+                "colour": null,
+                "add_info_json": {}
+            },
+            {
+                "id": 116609,
+                "name": "Motherwell",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "INTERNATIONAL",
+                "colour": null,
+                "add_info_json": {}
+            }
+            ],
+            "sport_event_competitors": [
+            {
+                "id": 816258,
+                "sport_event_id": 177166,
+                "competitor_id": 116586,
+                "cloth_number": null,
+                "name": "Manchester United",
+                "status": "Away",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": {}
+            },
+            {
+                "id": 816257,
+                "sport_event_id": 177166,
+                "competitor_id": 116609,
+                "cloth_number": null,
+                "name": "Motherwell",
+                "status": "Home",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": {}
+            }
+            ],
+            "history": [],
+            "venue": null
+        },
+        "selections": [
+            {
+            "id": 1914281,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 1,
+            "name": "Home",
+            "price": "3.0",
+            "display_order": 1,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914280,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 2,
+            "name": "Draw",
+            "price": "3.0",
+            "display_order": 2,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914279,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 3,
+            "name": "Away",
+            "price": "3.0",
+            "display_order": 3,
+            "add_info_json": null,
+            "unit_distributions": []
+            }
+        ]
+        },
+        {
+        "id": 144096,
+        "type_code": "HDA",
+        "official": false,
+        "display_order": 2,
+        "leg_order": 2,
+        "sport_code": "FOOTBALL",
+        "result": {},
+        "winning_selections": [],
+        "sport_event": {
+            "id": 177167,
+            "name": "FC Ilves v Sonderjyske",
+            "status": "NOT_STARTED",
+            "sport_code": "FOOTBALL",
+            "sport_sub_code": "XXFUEFACL",
+            "sport_sub_code_desc": null,
+            "period": null,
+            "add_info_json": {
+            "home_id": 2085,
+            "home_name": "FC Ilves",
+            "away_id": 2163,
+            "away_name": "Sonderjyske",
+            "result_code": "Draw"
+            },
+            "sched_start": "2020-09-15T00:30:00.000Z",
+            "competitors": [
+            {
+                "id": 2085,
+                "name": "FC Ilves",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "XXFUEFACL",
+                "colour": "FFFF00",
+                "add_info_json": null
+            },
+            {
+                "id": 2163,
+                "name": "Sonderjyske",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "XXFUEFACL",
+                "colour": "00FDFF",
+                "add_info_json": null
+            }
+            ],
+            "sport_event_competitors": [
+            {
+                "id": 816259,
+                "sport_event_id": 177167,
+                "competitor_id": 2085,
+                "cloth_number": null,
+                "name": "FC Ilves",
+                "status": "Home",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            },
+            {
+                "id": 816260,
+                "sport_event_id": 177167,
+                "competitor_id": 2163,
+                "cloth_number": null,
+                "name": "Sonderjyske",
+                "status": "Away",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            }
+            ],
+            "history": [],
+            "venue": null
+        },
+        "selections": [
+            {
+            "id": 1914278,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 1,
+            "name": "Home",
+            "price": "3.0",
+            "display_order": 1,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914277,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 2,
+            "name": "Draw",
+            "price": "3.0",
+            "display_order": 2,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914286,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 3,
+            "name": "Away",
+            "price": "3.0",
+            "display_order": 3,
+            "add_info_json": null,
+            "unit_distributions": []
+            }
+        ]
+        },
+        {
+        "id": 144097,
+        "type_code": "HDA",
+        "official": false,
+        "display_order": 3,
+        "leg_order": 3,
+        "sport_code": "FOOTBALL",
+        "result": {},
+        "winning_selections": [],
+        "sport_event": {
+            "id": 177168,
+            "name": "Ross County v Dundee",
+            "status": "NOT_STARTED",
+            "sport_code": "FOOTBALL",
+            "sport_sub_code": "GBFSPL",
+            "sport_sub_code_desc": null,
+            "period": null,
+            "add_info_json": {
+            "home_id": 651,
+            "home_name": "Ross County",
+            "away_id": 642,
+            "away_name": "Dundee",
+            "result_code": "Draw"
+            },
+            "sched_start": "2020-09-15T01:00:00.000Z",
+            "competitors": [
+            {
+                "id": 642,
+                "name": "Dundee",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "GBFSPL",
+                "colour": "303498",
+                "add_info_json": null
+            },
+            {
+                "id": 651,
+                "name": "Ross County",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "GBFSPL",
+                "colour": "0000A0",
+                "add_info_json": null
+            }
+            ],
+            "sport_event_competitors": [
+            {
+                "id": 816262,
+                "sport_event_id": 177168,
+                "competitor_id": 642,
+                "cloth_number": null,
+                "name": "Dundee",
+                "status": "Away",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            },
+            {
+                "id": 816261,
+                "sport_event_id": 177168,
+                "competitor_id": 651,
+                "cloth_number": null,
+                "name": "Ross County",
+                "status": "Home",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            }
+            ],
+            "history": [],
+            "venue": null
+        },
+        "selections": [
+            {
+            "id": 1914275,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 1,
+            "name": "Home",
+            "price": "3.0",
+            "display_order": 1,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914274,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 2,
+            "name": "Draw",
+            "price": "3.0",
+            "display_order": 2,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914273,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 3,
+            "name": "Away",
+            "price": "3.0",
+            "display_order": 3,
+            "add_info_json": null,
+            "unit_distributions": []
+            }
+        ]
+        },
+        {
+        "id": 144100,
+        "type_code": "HDA",
+        "official": false,
+        "display_order": 4,
+        "leg_order": 4,
+        "sport_code": "FOOTBALL",
+        "result": {},
+        "winning_selections": [],
+        "sport_event": {
+            "id": 177169,
+            "name": "Lahti v Hafnarfj'ur",
+            "status": "NOT_STARTED",
+            "sport_code": "FOOTBALL",
+            "sport_sub_code": "XXFEL",
+            "sport_sub_code_desc": null,
+            "period": null,
+            "add_info_json": {
+            "home_id": 1921,
+            "home_name": "Lahti",
+            "away_id": 744,
+            "away_name": "Hafnarfj'ur",
+            "result_code": "Draw"
+            },
+            "sched_start": "2020-09-15T01:30:00.000Z",
+            "competitors": [
+            {
+                "id": 744,
+                "name": "Hafnarfj'ur",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "XXFEL",
+                "colour": "34ff34",
+                "add_info_json": null
+            },
+            {
+                "id": 1921,
+                "name": "Lahti",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "XXFEL",
+                "colour": "000000",
+                "add_info_json": null
+            }
+            ],
+            "sport_event_competitors": [
+            {
+                "id": 816264,
+                "sport_event_id": 177169,
+                "competitor_id": 744,
+                "cloth_number": null,
+                "name": "Hafnarfj'ur",
+                "status": "Away",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            },
+            {
+                "id": 816263,
+                "sport_event_id": 177169,
+                "competitor_id": 1921,
+                "cloth_number": null,
+                "name": "Lahti",
+                "status": "Home",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            }
+            ],
+            "history": [],
+            "venue": null
+        },
+        "selections": [
+            {
+            "id": 1914272,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 1,
+            "name": "Home",
+            "price": "3.0",
+            "display_order": 1,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914285,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 2,
+            "name": "Draw",
+            "price": "3.0",
+            "display_order": 2,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914276,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 3,
+            "name": "Away",
+            "price": "3.0",
+            "display_order": 3,
+            "add_info_json": null,
+            "unit_distributions": []
+            }
+        ]
+        },
+        {
+        "id": 144099,
+        "type_code": "HDA",
+        "official": false,
+        "display_order": 5,
+        "leg_order": 5,
+        "sport_code": "FOOTBALL",
+        "result": {},
+        "winning_selections": [],
+        "sport_event": {
+            "id": 177170,
+            "name": "Sturm Graz v De Graafschap",
+            "status": "NOT_STARTED",
+            "sport_code": "FOOTBALL",
+            "sport_sub_code": "XXFEL",
+            "sport_sub_code_desc": null,
+            "period": null,
+            "add_info_json": {
+            "home_id": 875,
+            "home_name": "Sturm Graz",
+            "away_id": 865,
+            "away_name": "De Graafschap",
+            "result_code": "Draw"
+            },
+            "sched_start": "2020-09-15T02:00:00.000Z",
+            "competitors": [
+            {
+                "id": 865,
+                "name": "De Graafschap",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "XXFEL",
+                "colour": "3357FF",
+                "add_info_json": null
+            },
+            {
+                "id": 875,
+                "name": "Sturm Graz",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "XXFEL",
+                "colour": "000000",
+                "add_info_json": null
+            }
+            ],
+            "sport_event_competitors": [
+            {
+                "id": 816266,
+                "sport_event_id": 177170,
+                "competitor_id": 865,
+                "cloth_number": null,
+                "name": "De Graafschap",
+                "status": "Away",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            },
+            {
+                "id": 816265,
+                "sport_event_id": 177170,
+                "competitor_id": 875,
+                "cloth_number": null,
+                "name": "Sturm Graz",
+                "status": "Home",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            }
+            ],
+            "history": [],
+            "venue": null
+        },
+        "selections": [
+            {
+            "id": 1914282,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 1,
+            "name": "Home",
+            "price": "3.0",
+            "display_order": 1,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914283,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 2,
+            "name": "Draw",
+            "price": "3.0",
+            "display_order": 2,
+            "add_info_json": null,
+            "unit_distributions": []
+            },
+            {
+            "id": 1914284,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 3,
+            "name": "Away",
+            "price": "3.0",
+            "display_order": 3,
+            "add_info_json": null,
+            "unit_distributions": []
+            }
+        ]
+        }
+    ],
+    "history": []
+    },
+    {
+    "fx_rates": [
+        {
+        "currency": "GBP",
+        "rate": "2.0"
+        }
+    ],
+    "id": 36119,
+    "name": "CS Pick 3",
+    "type_code": "CORRECT_SCORE",
+    "name_code": null,
+    "rule_code": null,
+    "status": "OFFICIAL",
+    "settlement_status": "READY",
+    "sched_start": "2020-02-07T11:00:00.000Z",
+    "sched_next": null,
+    "num_units": "21.5652992",
+    "headline_prize": "2175.0",
+    "in_rollback_mode": false,
+    "stake_sizes": [
+        {
+        "currency": "GBP",
+        "country": "00",
+        "stakes": [
+            "2.0",
+            "1.0",
+            "0.5",
+            "0.2",
+            "0.1"
+        ],
+        "min_stake": "0.01",
+        "max_stake": "2.1",
+        "min_cost": "0.01",
+        "max_cost": "100000000.0"
+        }
+    ],
+    "sport_code": "FOOTBALL",
+    "leg_num": 3,
+    "sport_sub_code": "MIXED",
+    "show_sub_code": false,
+    "smart_pick_perms": [
+        1,
+        2,
+        4,
+        8,
+        12,
+        18,
+        24,
+        36,
+        48,
+        60,
+        80,
+        100,
+        125,
+        216,
+        343,
+        512
+    ],
+    "free_play_only": false,
+    "boosted": false,
+    "rollover": false,
+    "best_dividend_guarantee": false,
+    "created_at": "2020-02-06T17:05:12.000Z",
+    "settled_at": "2020-02-07T13:39:45.000Z",
+    "external_id": null,
+    "external_source": null,
+    "trading_enabled": true,
+    "overlay_image_url": null,
+    "leg_correlations": {},
+    "sport_event_info": null,
+    "available_syndicates": 0,
+    "has_offers": false,
+    "currency": "GBP",
+    "prizes": [
+        {
+        "prize_type_code": "CON_N1",
+        "amount": "217.5",
+        "guarantee": "250.0",
+        "carry_in": "0.0",
+        "pay_out": "99.1865955831",
+        "win_units": "2.19283663",
+        "prize_path": 0,
+        "path_selections": "8/8/8",
+        "complete_path_selections": "8/8/8",
+        "id": 77737
+        },
+        {
+        "prize_type_code": "WIN",
+        "amount": "2175.0",
+        "guarantee": "2500.0",
+        "carry_in": "0.0",
+        "pay_out": "2175.0",
+        "win_units": "0.83089461",
+        "prize_path": 0,
+        "path_selections": "8/8/8",
+        "complete_path_selections": "8/8/8",
+        "id": 77738
+        }
+    ],
+    "legs": [
+        {
+        "id": 135190,
+        "type_code": "CORRECT_SCORE",
+        "official": true,
+        "display_order": 1,
+        "leg_order": 1,
+        "sport_code": null,
+        "result": null,
+        "winning_selections": [
+            {
+            "prize_code": "WIN",
+            "selections": [
+                8
+            ]
+            }
+        ],
+        "sport_event": {
+            "id": 157080,
+            "name": "Omiya Ardija v Sanfrecce",
+            "status": "OFFICIAL",
+            "sport_code": "FOOTBALL",
+            "sport_sub_code": "JPFLG",
+            "sport_sub_code_desc": null,
+            "period": "FT",
+            "add_info_json": {
+            "home_id": 1707,
+            "home_name": "Omiya Ardija",
+            "home_score": 0,
+            "away_id": 1703,
+            "away_name": "Sanfrecce",
+            "away_score": 0,
+            "current_score": "0-0",
+            "half_time_score": "0-0",
+            "result_code": "Draw"
+            },
+            "sched_start": "2020-02-07T11:00:00.000Z",
+            "competitors": [
+            {
+                "id": 1703,
+                "name": "Sanfrecce",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "JPFLG",
+                "colour": "4B0082",
+                "add_info_json": null
+            },
+            {
+                "id": 1707,
+                "name": "Omiya Ardija",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "JPFLG",
+                "colour": "FF8000",
+                "add_info_json": null
+            }
+            ],
+            "sport_event_competitors": [
+            {
+                "id": 680452,
+                "sport_event_id": 157080,
+                "competitor_id": 1703,
+                "cloth_number": null,
+                "name": "Sanfrecce",
+                "status": "Away",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            },
+            {
+                "id": 680451,
+                "sport_event_id": 157080,
+                "competitor_id": 1707,
+                "cloth_number": null,
+                "name": "Omiya Ardija",
+                "status": "Home",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            }
+            ],
+            "history": [
+            {
+                "sport_event_id": 157080,
+                "event_code": "STARTED",
+                "event_time": "2020-02-07T13:26:59.000Z",
+                "event_info_json": {
+                "home_id": 1707,
+                "home_name": "Omiya Ardija",
+                "home_score": 0,
+                "away_id": 1703,
+                "away_name": "Sanfrecce",
+                "away_score": 0,
+                "current_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157080,
+                "event_code": "PERIOD_CHANGE",
+                "event_time": "2020-02-07T13:27:27.000Z",
+                "event_info_json": {
+                "home_id": 1707,
+                "home_name": "Omiya Ardija",
+                "home_score": 0,
+                "away_id": 1703,
+                "away_name": "Sanfrecce",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157080,
+                "event_code": "PERIOD_CHANGE",
+                "event_time": "2020-02-07T13:27:31.000Z",
+                "event_info_json": {
+                "home_id": 1707,
+                "home_name": "Omiya Ardija",
+                "home_score": 0,
+                "away_id": 1703,
+                "away_name": "Sanfrecce",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157080,
+                "event_code": "COMPLETED",
+                "event_time": "2020-02-07T13:27:36.000Z",
+                "event_info_json": {
+                "home_id": 1707,
+                "home_name": "Omiya Ardija",
+                "home_score": 0,
+                "away_id": 1703,
+                "away_name": "Sanfrecce",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157080,
+                "event_code": "OFFICIAL",
+                "event_time": "2020-02-07T13:27:41.000Z",
+                "event_info_json": {
+                "home_id": 1707,
+                "home_name": "Omiya Ardija",
+                "home_score": 0,
+                "away_id": 1703,
+                "away_name": "Sanfrecce",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            }
+            ],
+            "venue": null
+        },
+        "selections": [
+            {
+            "id": 1816991,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 1,
+            "name": "AOH",
+            "price": "17.0",
+            "display_order": 1,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816990,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 2,
+            "name": "3-2",
+            "price": "17.0",
+            "display_order": 2,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816989,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 3,
+            "name": "3-1",
+            "price": "17.0",
+            "display_order": 3,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816988,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 4,
+            "name": "3-0",
+            "price": "17.0",
+            "display_order": 4,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816998,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 5,
+            "name": "2-1",
+            "price": "17.0",
+            "display_order": 5,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816986,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 6,
+            "name": "2-0",
+            "price": "17.0",
+            "display_order": 6,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816985,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 7,
+            "name": "1-0",
+            "price": "17.0",
+            "display_order": 7,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816984,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 8,
+            "name": "0-0",
+            "price": "17.0",
+            "display_order": 8,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.83089461",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816983,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 9,
+            "name": "1-1",
+            "price": "17.0",
+            "display_order": 9,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816982,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 10,
+            "name": "AOD",
+            "price": "17.0",
+            "display_order": 10,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816981,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 11,
+            "name": "0-1",
+            "price": "17.0",
+            "display_order": 11,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816980,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 12,
+            "name": "0-2",
+            "price": "17.0",
+            "display_order": 12,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816979,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 13,
+            "name": "1-2",
+            "price": "17.0",
+            "display_order": 13,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816978,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 14,
+            "name": "0-3",
+            "price": "17.0",
+            "display_order": 14,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816977,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 15,
+            "name": "1-3",
+            "price": "17.0",
+            "display_order": 15,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816976,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 16,
+            "name": "2-3",
+            "price": "17.0",
+            "display_order": 16,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816987,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 17,
+            "name": "AOA",
+            "price": "17.0",
+            "display_order": 17,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "id": 135191,
+        "type_code": "CORRECT_SCORE",
+        "official": true,
+        "display_order": 2,
+        "leg_order": 2,
+        "sport_code": null,
+        "result": null,
+        "winning_selections": [
+            {
+            "prize_code": "WIN",
+            "selections": [
+                8
+            ]
+            }
+        ],
+        "sport_event": {
+            "id": 157081,
+            "name": "San Jose v Colorado",
+            "status": "OFFICIAL",
+            "sport_code": "FOOTBALL",
+            "sport_sub_code": "USFMLS",
+            "sport_sub_code_desc": null,
+            "period": "FT",
+            "add_info_json": {
+            "home_id": 1041,
+            "home_name": "San Jose",
+            "home_score": 0,
+            "away_id": 1033,
+            "away_name": "Colorado",
+            "away_score": 0,
+            "current_score": "0-0",
+            "half_time_score": "0-0",
+            "result_code": "Draw"
+            },
+            "sched_start": "2020-02-07T11:30:00.000Z",
+            "competitors": [
+            {
+                "id": 1033,
+                "name": "Colorado",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "USFMLS",
+                "colour": "800000",
+                "add_info_json": null
+            },
+            {
+                "id": 1041,
+                "name": "San Jose",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "USFMLS",
+                "colour": "0000A0",
+                "add_info_json": null
+            }
+            ],
+            "sport_event_competitors": [
+            {
+                "id": 680454,
+                "sport_event_id": 157081,
+                "competitor_id": 1033,
+                "cloth_number": null,
+                "name": "Colorado",
+                "status": "Away",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            },
+            {
+                "id": 680453,
+                "sport_event_id": 157081,
+                "competitor_id": 1041,
+                "cloth_number": null,
+                "name": "San Jose",
+                "status": "Home",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            }
+            ],
+            "history": [
+            {
+                "sport_event_id": 157081,
+                "event_code": "STARTED",
+                "event_time": "2020-02-07T13:38:40.000Z",
+                "event_info_json": {
+                "home_id": 1041,
+                "home_name": "San Jose",
+                "home_score": 0,
+                "away_id": 1033,
+                "away_name": "Colorado",
+                "away_score": 0,
+                "current_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157081,
+                "event_code": "PERIOD_CHANGE",
+                "event_time": "2020-02-07T13:38:42.000Z",
+                "event_info_json": {
+                "home_id": 1041,
+                "home_name": "San Jose",
+                "home_score": 0,
+                "away_id": 1033,
+                "away_name": "Colorado",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157081,
+                "event_code": "PERIOD_CHANGE",
+                "event_time": "2020-02-07T13:38:43.000Z",
+                "event_info_json": {
+                "home_id": 1041,
+                "home_name": "San Jose",
+                "home_score": 0,
+                "away_id": 1033,
+                "away_name": "Colorado",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157081,
+                "event_code": "COMPLETED",
+                "event_time": "2020-02-07T13:38:45.000Z",
+                "event_info_json": {
+                "home_id": 1041,
+                "home_name": "San Jose",
+                "home_score": 0,
+                "away_id": 1033,
+                "away_name": "Colorado",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157081,
+                "event_code": "OFFICIAL",
+                "event_time": "2020-02-07T13:38:46.000Z",
+                "event_info_json": {
+                "home_id": 1041,
+                "home_name": "San Jose",
+                "home_score": 0,
+                "away_id": 1033,
+                "away_name": "Colorado",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            }
+            ],
+            "venue": null
+        },
+        "selections": [
+            {
+            "id": 1816999,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 1,
+            "name": "AOH",
+            "price": "17.0",
+            "display_order": 1,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817024,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 2,
+            "name": "3-2",
+            "price": "17.0",
+            "display_order": 2,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817000,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 3,
+            "name": "3-1",
+            "price": "17.0",
+            "display_order": 3,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817023,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 4,
+            "name": "3-0",
+            "price": "17.0",
+            "display_order": 4,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817022,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 5,
+            "name": "2-1",
+            "price": "17.0",
+            "display_order": 5,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817021,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 6,
+            "name": "2-0",
+            "price": "17.0",
+            "display_order": 6,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817020,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 7,
+            "name": "1-0",
+            "price": "17.0",
+            "display_order": 7,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817019,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 8,
+            "name": "0-0",
+            "price": "17.0",
+            "display_order": 8,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.83089461",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817018,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 9,
+            "name": "1-1",
+            "price": "17.0",
+            "display_order": 9,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817017,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 10,
+            "name": "AOD",
+            "price": "17.0",
+            "display_order": 10,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817016,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 11,
+            "name": "0-1",
+            "price": "17.0",
+            "display_order": 11,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817015,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 12,
+            "name": "0-2",
+            "price": "17.0",
+            "display_order": 12,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817014,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 13,
+            "name": "1-2",
+            "price": "17.0",
+            "display_order": 13,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817013,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 14,
+            "name": "0-3",
+            "price": "17.0",
+            "display_order": 14,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817012,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 15,
+            "name": "1-3",
+            "price": "17.0",
+            "display_order": 15,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817011,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 16,
+            "name": "2-3",
+            "price": "17.0",
+            "display_order": 16,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817010,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 17,
+            "name": "AOA",
+            "price": "17.0",
+            "display_order": 17,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            }
+        ]
+        },
+        {
+        "id": 135192,
+        "type_code": "CORRECT_SCORE",
+        "official": true,
+        "display_order": 3,
+        "leg_order": 3,
+        "sport_code": null,
+        "result": null,
+        "winning_selections": [
+            {
+            "prize_code": "WIN",
+            "selections": [
+                8
+            ]
+            }
+        ],
+        "sport_event": {
+            "id": 157082,
+            "name": "Belenenses v Partizani Tirana",
+            "status": "OFFICIAL",
+            "sport_code": "FOOTBALL",
+            "sport_sub_code": "XXFEL",
+            "sport_sub_code_desc": null,
+            "period": "FT",
+            "add_info_json": {
+            "home_id": 893,
+            "home_name": "Belenenses",
+            "home_score": 0,
+            "away_id": 1201,
+            "away_name": "Partizani Tirana",
+            "away_score": 0,
+            "current_score": "0-0",
+            "half_time_score": "0-0",
+            "result_code": "Draw"
+            },
+            "sched_start": "2020-02-07T12:00:00.000Z",
+            "competitors": [
+            {
+                "id": 893,
+                "name": "Belenenses",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "XXFEL",
+                "colour": "0000FF",
+                "add_info_json": null
+            },
+            {
+                "id": 1201,
+                "name": "Partizani Tirana",
+                "sport_code": "FOOTBALL",
+                "sport_sub_code": "XXFEL",
+                "colour": "FF0000",
+                "add_info_json": null
+            }
+            ],
+            "sport_event_competitors": [
+            {
+                "id": 680455,
+                "sport_event_id": 157082,
+                "competitor_id": 893,
+                "cloth_number": null,
+                "name": "Belenenses",
+                "status": "Home",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            },
+            {
+                "id": 680456,
+                "sport_event_id": 157082,
+                "competitor_id": 1201,
+                "cloth_number": null,
+                "name": "Partizani Tirana",
+                "status": "Away",
+                "withdrawn": false,
+                "result": 0,
+                "favourite": false,
+                "probability": null,
+                "fractional_probability": null,
+                "add_info_json": null
+            }
+            ],
+            "history": [
+            {
+                "sport_event_id": 157082,
+                "event_code": "STARTED",
+                "event_time": "2020-02-07T13:38:47.000Z",
+                "event_info_json": {
+                "home_id": 893,
+                "home_name": "Belenenses",
+                "home_score": 0,
+                "away_id": 1201,
+                "away_name": "Partizani Tirana",
+                "away_score": 0,
+                "current_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157082,
+                "event_code": "PERIOD_CHANGE",
+                "event_time": "2020-02-07T13:38:49.000Z",
+                "event_info_json": {
+                "home_id": 893,
+                "home_name": "Belenenses",
+                "home_score": 0,
+                "away_id": 1201,
+                "away_name": "Partizani Tirana",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157082,
+                "event_code": "PERIOD_CHANGE",
+                "event_time": "2020-02-07T13:38:50.000Z",
+                "event_info_json": {
+                "home_id": 893,
+                "home_name": "Belenenses",
+                "home_score": 0,
+                "away_id": 1201,
+                "away_name": "Partizani Tirana",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157082,
+                "event_code": "COMPLETED",
+                "event_time": "2020-02-07T13:38:52.000Z",
+                "event_info_json": {
+                "home_id": 893,
+                "home_name": "Belenenses",
+                "home_score": 0,
+                "away_id": 1201,
+                "away_name": "Partizani Tirana",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            },
+            {
+                "sport_event_id": 157082,
+                "event_code": "OFFICIAL",
+                "event_time": "2020-02-07T13:38:53.000Z",
+                "event_info_json": {
+                "home_id": 893,
+                "home_name": "Belenenses",
+                "home_score": 0,
+                "away_id": 1201,
+                "away_name": "Partizani Tirana",
+                "away_score": 0,
+                "current_score": "0-0",
+                "half_time_score": "0-0",
+                "result_code": "Draw"
+                }
+            }
+            ],
+            "venue": null
+        },
+        "selections": [
+            {
+            "id": 1817009,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 1,
+            "name": "AOH",
+            "price": "17.0",
+            "display_order": 1,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817008,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 2,
+            "name": "3-2",
+            "price": "17.0",
+            "display_order": 2,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817007,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 3,
+            "name": "3-1",
+            "price": "17.0",
+            "display_order": 3,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817006,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 4,
+            "name": "3-0",
+            "price": "17.0",
+            "display_order": 4,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817005,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 5,
+            "name": "2-1",
+            "price": "17.0",
+            "display_order": 5,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817004,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 6,
+            "name": "2-0",
+            "price": "17.0",
+            "display_order": 6,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817003,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 7,
+            "name": "1-0",
+            "price": "17.0",
+            "display_order": 7,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817002,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 8,
+            "name": "0-0",
+            "price": "17.0",
+            "display_order": 8,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.83089461",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817001,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 9,
+            "name": "1-1",
+            "price": "17.0",
+            "display_order": 9,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1817025,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 10,
+            "name": "AOD",
+            "price": "17.0",
+            "display_order": 10,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816992,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 11,
+            "name": "0-1",
+            "price": "17.0",
+            "display_order": 11,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816993,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 12,
+            "name": "0-2",
+            "price": "17.0",
+            "display_order": 12,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816994,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 13,
+            "name": "1-2",
+            "price": "17.0",
+            "display_order": 13,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816995,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 14,
+            "name": "0-3",
+            "price": "17.0",
+            "display_order": 14,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816996,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 15,
+            "name": "1-3",
+            "price": "17.0",
+            "display_order": 15,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816975,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 16,
+            "name": "2-3",
+            "price": "17.0",
+            "display_order": 16,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            },
+            {
+            "id": 1816997,
+            "competitor_id": null,
+            "sport_event_competitor_id": null,
+            "bin": 17,
+            "name": "AOA",
+            "price": "17.0",
+            "display_order": 17,
+            "add_info_json": null,
+            "unit_distributions": [
+                {
+                "units": "0.0",
+                "willpay": null,
+                "prize_code": "WIN"
+                }
+            ]
+            }
+        ]
+        }
+    ],
+    "history": [
+        {
+        "event_code": "STARTED",
+        "remaining_units": "21.56529909",
+        "pool_prize_id": 77737,
+        "sport_event_history_id": 497071,
+        "prize_code": "CON_N1",
+        "sport_event_history": {
+            "sport_event_id": 157080,
+            "event_code": "STARTED",
+            "event_time": "2020-02-07T13:26:59.000Z",
+            "event_info_json": {
+            "home_id": 1707,
+            "home_name": "Omiya Ardija",
+            "home_score": 0,
+            "away_id": 1703,
+            "away_name": "Sanfrecce",
+            "away_score": 0,
+            "current_score": "0-0",
+            "result_code": "Draw"
+            }
+        },
+        "impact_legs": []
+        },
+        {
+        "event_code": "STARTED",
+        "remaining_units": "21.56529909",
+        "pool_prize_id": 77738,
+        "sport_event_history_id": 497071,
+        "prize_code": "WIN",
+        "sport_event_history": {
+            "sport_event_id": 157080,
+            "event_code": "STARTED",
+            "event_time": "2020-02-07T13:26:59.000Z",
+            "event_info_json": {
+            "home_id": 1707,
+            "home_name": "Omiya Ardija",
+            "home_score": 0,
+            "away_id": 1703,
+            "away_name": "Sanfrecce",
+            "away_score": 0,
+            "current_score": "0-0",
+            "result_code": "Draw"
+            }
+        },
+        "impact_legs": []
+        },
+        {
+        "event_code": "OFFICIAL",
+        "remaining_units": "21.56529909",
+        "pool_prize_id": 77737,
+        "sport_event_history_id": 497075,
+        "prize_code": "CON_N1",
+        "sport_event_history": {
+            "sport_event_id": 157080,
+            "event_code": "OFFICIAL",
+            "event_time": "2020-02-07T13:27:41.000Z",
+            "event_info_json": {
+            "home_id": 1707,
+            "home_name": "Omiya Ardija",
+            "home_score": 0,
+            "away_id": 1703,
+            "away_name": "Sanfrecce",
+            "away_score": 0,
+            "current_score": "0-0",
+            "half_time_score": "0-0",
+            "result_code": "Draw"
+            }
+        },
+        "impact_legs": []
+        },
+        {
+        "event_code": "OFFICIAL",
+        "remaining_units": "3.92112427",
+        "pool_prize_id": 77738,
+        "sport_event_history_id": 497075,
+        "prize_code": "WIN",
+        "sport_event_history": {
+            "sport_event_id": 157080,
+            "event_code": "OFFICIAL",
+            "event_time": "2020-02-07T13:27:41.000Z",
+            "event_info_json": {
+            "home_id": 1707,
+            "home_name": "Omiya Ardija",
+            "home_score": 0,
+            "away_id": 1703,
+            "away_name": "Sanfrecce",
+            "away_score": 0,
+            "current_score": "0-0",
+            "half_time_score": "0-0",
+            "result_code": "Draw"
+            }
+        },
+        "impact_legs": []
+        },
+        {
+        "event_code": "OFFICIAL",
+        "remaining_units": "6.25219483",
+        "pool_prize_id": 77737,
+        "sport_event_history_id": 497084,
+        "prize_code": "CON_N1",
+        "sport_event_history": {
+            "sport_event_id": 157081,
+            "event_code": "OFFICIAL",
+            "event_time": "2020-02-07T13:38:46.000Z",
+            "event_info_json": {
+            "home_id": 1041,
+            "home_name": "San Jose",
+            "home_score": 0,
+            "away_id": 1033,
+            "away_name": "Colorado",
+            "away_score": 0,
+            "current_score": "0-0",
+            "half_time_score": "0-0",
+            "result_code": "Draw"
+            }
+        },
+        "impact_legs": []
+        },
+        {
+        "event_code": "OFFICIAL",
+        "remaining_units": "1.89822652",
+        "pool_prize_id": 77738,
+        "sport_event_history_id": 497084,
+        "prize_code": "WIN",
+        "sport_event_history": {
+            "sport_event_id": 157081,
+            "event_code": "OFFICIAL",
+            "event_time": "2020-02-07T13:38:46.000Z",
+            "event_info_json": {
+            "home_id": 1041,
+            "home_name": "San Jose",
+            "home_score": 0,
+            "away_id": 1033,
+            "away_name": "Colorado",
+            "away_score": 0,
+            "current_score": "0-0",
+            "half_time_score": "0-0",
+            "result_code": "Draw"
+            }
+        },
+        "impact_legs": []
+        },
+        {
+        "event_code": "OFFICIAL",
+        "remaining_units": "2.19283663",
+        "pool_prize_id": 77737,
+        "sport_event_history_id": 497089,
+        "prize_code": "CON_N1",
+        "sport_event_history": {
+            "sport_event_id": 157082,
+            "event_code": "OFFICIAL",
+            "event_time": "2020-02-07T13:38:53.000Z",
+            "event_info_json": {
+            "home_id": 893,
+            "home_name": "Belenenses",
+            "home_score": 0,
+            "away_id": 1201,
+            "away_name": "Partizani Tirana",
+            "away_score": 0,
+            "current_score": "0-0",
+            "half_time_score": "0-0",
+            "result_code": "Draw"
+            }
+        },
+        "impact_legs": []
+        },
+        {
+        "event_code": "OFFICIAL",
+        "remaining_units": "0.83089461",
+        "pool_prize_id": 77738,
+        "sport_event_history_id": 497089,
+        "prize_code": "WIN",
+        "sport_event_history": {
+            "sport_event_id": 157082,
+            "event_code": "OFFICIAL",
+            "event_time": "2020-02-07T13:38:53.000Z",
+            "event_info_json": {
+            "home_id": 893,
+            "home_name": "Belenenses",
+            "home_score": 0,
+            "away_id": 1201,
+            "away_name": "Partizani Tirana",
+            "away_score": 0,
+            "current_score": "0-0",
+            "half_time_score": "0-0",
+            "result_code": "Draw"
+            }
+        },
+        "impact_legs": []
+        }
+    ]
+    }
+  ]
+}
