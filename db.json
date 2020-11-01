@@ -2,6 +2,9 @@
   "settings":
     { "default_currency": "GBP", "open_syndicate_count": 32 }
   ,
+  "tickets": {
+
+  },
   "menu": {
     "pools": [
         {
