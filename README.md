@@ -20,7 +20,7 @@ More details about how to use the fake API server, here: https://github.com/typi
 
 You have *4 hours* to complete the test. 
 
-Based on the data within the `menu` endpoint. You will need to generate functional views: a single pool coupon and an official pool view. For UI/UX inspiration you can have a look at our product website. Anything extra would be a bonus.
+Based on the data within the `menu` endpoint. You will need to generate functional views (not css only): a single pool coupon and an official pool view. For UI/UX inspiration you can have a look at our product website. Anything extra would be a bonus.
 *You can find more details about what is a betting pool on Google or our blog.*
 
 ##### 3.1 Requirements for basic test
@@ -33,7 +33,7 @@ Based on the data within the `menu` endpoint. You will need to generate function
 - usage of NgRx / Akita
 - code understanding and logic
 - testing; minimum 50% coverage
-- UI/UX - we value a good clean design. You can use any CSS framework you want (Bootstrap, Tailwind, etc). 
+- UI/UX - we value a good clean design. You can use any SASS/SCSS/LESS/CSS framework you want (Eg: Tailwind, Bootstrap). 
  
 Although we don't recommend the usage of UI Components libraries like Angular Material, if this will lead you to completion of the project in time, feel free.
 
@@ -41,4 +41,11 @@ Although we don't recommend the usage of UI Components libraries like Angular Ma
 
 If you haven't managed to finish the test within the required time, tell the recruiter you took an extra hour. Last commit (although would prefer multiple ones) should be at 4 hours +/- 5min. 
 
-If you still haven't finished at least the requirements for the basic test, don't even stress yourself to send the test.
+If you still haven't finished at least the requirements for the basic test, don't even bother to send the test.
+
+#### 5. Additional notes
+
+- selections are build as in per match/game/leg;
+- a pool is considered 'OFFICIAL' if status is official; and OPEN if status is 'OPEN'. A user can bet only in a 'OPEN' pool;
+- for ticket placement (POST to `tickets` endpoint) - the selections are build based on the following: 
+  `[leg[leg_index].selection[selection_index].bin[,leg[leg_index].selection[selection_index].bin] / leg[leg_index].selection[selection_index].bin]`
