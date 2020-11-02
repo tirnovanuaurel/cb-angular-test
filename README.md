@@ -59,4 +59,4 @@ We are looking forward to evaluate your test as long as the basic requirements a
 - selections are build as in per match/game/leg;
 - a pool is considered 'OFFICIAL' if status is official; and OPEN if status is 'OPEN'. A user can bet only in a 'OPEN' pool;
 - for ticket placement (POST to `tickets` endpoint) - the selections are build based on the following: 
-  `"leg[leg_index].selection[selection_index].bin[,leg[leg_index].selection[selection_index].bin] / leg[leg_index].selection[selection_index].bin"`
+  `"leg[leg_index].selection.bin[,leg[leg_index].selection.bin] / leg[leg_index].selection.bin"`
